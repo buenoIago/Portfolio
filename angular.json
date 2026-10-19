@@ -75,7 +75,7 @@
         "deploy": {
           "builder": "angular-cli-ghpages:deploy",
           "options": {
-            "baseHref": "https://buenoIago.github.io/Portifolio/",
+            "baseHref": "https://buenoIago.github.io/Portfolio/",
             "name": "buenoIago",
             "email": "iagocedup@gmail.com"
           }
